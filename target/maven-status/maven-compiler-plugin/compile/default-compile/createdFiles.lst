@@ -1,0 +1,5 @@
+com\mycompany\selectionsort\SelectionSort.class
+com\mycompany\selectionsort\LinealSelectionSort.class
+com\mycompany\selectionsort\ForkJoinSelection.class
+com\mycompany\selectionsort\ExecutorServiceSelection$SortTask.class
+com\mycompany\selectionsort\ExecutorServiceSelection.class
